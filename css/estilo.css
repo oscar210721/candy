@@ -329,3 +329,11 @@ padding-top:150px;
   border-radius: 50%;
   top:115px;
 }
+#nombres{
+
+  background: #2E2E2E;
+  width: 300px;
+  height: 80px;
+  border-radius: 15px;
+  color:#ffffff;
+}
